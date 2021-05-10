@@ -28,4 +28,5 @@ answer: "Mrs. Whiskerson"
 for(var i = 0 ; i < questions.length; i++){
   play(questions[i].question, questions[i].answer);
 }
-console.log("Your final score is: " +score);
+console.log("Your final score is: " +score); 
+// console.log("hello world");
